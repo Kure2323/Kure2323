@@ -1,5 +1,7 @@
-## Hi there 👋
-<img align="center" src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+## Hi there 👋, I'm Pol Gorrindo Bermejo
+<div align="center">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+</div>
 
 <h4 align="center">Top languages</h4>
 
