@@ -7,7 +7,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kure2323&theme=jolly&show_icons=true"/>
   </a>
   <a href="https://github.com/Kure2323">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kure2323&layout=compact&langs_count=8&theme=jolly"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kure2323&layout=compact&langs_count=8&theme=jolly"/>
   </a>
 </p>
 
