@@ -11,10 +11,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kure2323&theme=dark&hide_border=true"/>
-</p>
-
 <!--
 **Kure2323/Kure2323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
