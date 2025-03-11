@@ -1,8 +1,5 @@
-## Hi there 👋, I'm Pol Gorrindo Bermejo
-<br />
-<div align="center">
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
-</div>
+## Hi there 👋, I'm Pol Gorrindo Bermejo <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+
 
 ## Skills <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
 ![](https://img.shields.io/badge/Code-JAVA-informational?style=flat&logo=java&logoColor=white&color=ffffff)
