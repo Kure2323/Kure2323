@@ -1,9 +1,12 @@
 ## Hi there 👋
 
- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kure2323&show_icons=true&locale=en&layout=compact" alt="Kure2323" /></p>
+<h4 align="center">Top languagess:</h4>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kure2323&show_icons=true&locale=en" alt="Kure2323" width="410" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kure2323&langs_count=10&theme=jolly&layout=compact" alt="Pol :: Top Langs" /></p>
+
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Kure2323&show_icons=true&theme=jolly" alt="Pol :: Profile Stats" /></p>
 
 
 <!--
