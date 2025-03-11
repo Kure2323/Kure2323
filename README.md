@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Pol Gorrindo Bermejo <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
 
 
-## Skills <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
+## Skills I'm Learning <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
 ![](https://img.shields.io/badge/Code-JAVA-informational?style=flat&logo=java&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=ffffff)
@@ -10,8 +10,7 @@
 ## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
 <a href="https://github.com/Kure2323">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kure2323&show_icons=true&theme=dark&langs_count=8&count_private=true&card_width=280" height="220px"/>
-</a>
-<a href="https://github.com/Kure2323">
+
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kure2323&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27"  alt="Pol's github stats" height="220px" />
 </a>
 
