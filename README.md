@@ -4,22 +4,19 @@
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
+## Skills <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
+![](https://img.shields.io/badge/Code-JAVA-informational?style=flat&logo=java&logoColor=white&color=ffffff)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=ffffff)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=ffffff)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=ffffff)
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Kure2323&show_icons=true&theme=jolly" alt="Pol :: Profile Stats" /></p>
-
-<h4 align="center">Top languages</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kure2323&langs_count=10&theme=jolly&layout=compact" alt="Pol :: Top Langs" /></p>
-
-## Currently Learning
-![Java](http://img.shields.io/badge/-Java-e8892f?style=flat-square&logo=java&logoColor=white)
-![Sql](http://img.shields.io/badge/-Sql-00758f?style=flat-square&logo=Mysql&logoColor=white)
-![Html](http://img.shields.io/badge/-Html-e24c27?style=flat-square&logo=html5&logoColor=white)
-![Css](http://img.shields.io/badge/-Css-2a65f1?style=flat-square&logo=css3&logoColor=white)
-![Linux](http://img.shields.io/badge/-Linux-fad134?style=flat-square&logo=linux&logoColor=black)
-<br />
-<br />
+## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
+<a href="https://github.com/Kure2323">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kure2323&show_icons=true&theme=dark&langs_count=8&count_private=true&card_width=280" height="220px"/>
+</a>
+<a href="https://github.com/Kure2323">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kure2323&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27"  alt="Pol's github stats" height="220px" />
+</a>
 ## Tools
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellijidea&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=3aa7f2)
