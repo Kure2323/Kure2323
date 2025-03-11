@@ -1,12 +1,19 @@
 ## Hi there 👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kure2323&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Pol Github Stats">
-<br />
-<br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kure2323&layout=compact&theme=dark&bg_color=0A0A0A" alt="Pol Gorrindo Top Languages"/>
-<br />
-<br />
-<br />
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/Kure2323">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kure2323&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/Kure2323">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kure2323&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kure2323&theme=dark&hide_border=true"/>
+</p>
 
 <!--
 **Kure2323/Kure2323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
