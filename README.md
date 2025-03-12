@@ -9,10 +9,10 @@
 
 ## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
 <a href="https://github.com/Kure2323">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kure2323&show_icons=true&theme=dark&langs_count=8&count_private=true&card_width=280" height="220px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kure2323&show_icons=true&theme=dark&langs_count=8&card_width=280" height="220px"/>
 </a>
 <a href="https://github.com/Kure2323">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kure2323&count_private=false&hide=stars&show_icons=true&theme=dark&line_height=27"  alt="Pol's github stats" height="220px" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kure2323&hide=stars&show_icons=true&theme=dark&line_height=27"  alt="Pol's github stats" height="220px" />
 </a>
 
 ## Tools
